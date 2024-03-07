@@ -1,20 +1,12 @@
-# V3 Job Search Extension
+# Extension Starter
 
 ## What does this extension do?
 
-This extension provides more information about the jobs appearing within the Monster job search results page, and about the factors that determine their position within the results.
+Not much. It has enough to prove the build and tooling works. 
 
 ## How does it work?
 
-See the [installation and usage doc](https://monster-next.atlassian.net/wiki/spaces/STCT/pages/2119926665/JSP+Installation+guide) for the current version
 
-> // todo - update links when complete
-
-[Repo](https://github.com/monster-next/job-search-plugin)
-
-[V3 Repo](https://github.com/nickbaldwin/v3-job-search-extension)
-
-[Issues](https://trello.com/b/IqVufxSu/mv3-board)
 
 ## How does the extension work?
 
@@ -43,7 +35,10 @@ This extension is developed in React and TypeScript, and uses Vite as the build 
 
 ## Linting & Formatting
 
-ESLint, Prettier
+ESLint, Prettier, Husky, Lint-staged
+
+
+## To consider
 
 ## Expanding the ESLint configuration
 
